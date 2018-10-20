@@ -8,3 +8,7 @@ MONGO_DB = 'meitu'
 MONGO_TABLE = 'jiepa'
 
 
+FIRST_PAGE = 0
+LAST_PAGE = 1
+
+keyword = '街拍'
